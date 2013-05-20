@@ -1,0 +1,11 @@
+function createText(x,y,value,fsize, fname,t)
+assert(length(x)==length(y)&&length(x)==length(value));
+n = length(x);
+global uicontextmenutext;
+for i = 1:n
+    textHandle = text(x(i),y(i),sprintf(['%' sprintf('.%d', t) 'f'], value(i)));
+    set(textHandle, 'HorizontalAlignment', 'center', 'VerticalAlignment', 'bottom', 'FontSize', fsize,...
+        'FontName', fname, 'uicontextmenu', uicontextmenutext);
+    set(textHandle, 'UserData', value(i));
+end
+end

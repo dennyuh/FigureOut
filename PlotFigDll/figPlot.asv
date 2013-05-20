@@ -1,0 +1,5 @@
+function figPlot(x,y,threshold,fsize,fname,t)
+plot(x,y,'k');
+[pks,locs]=findpeaks(y,'minpeakheight',threshold);
+createText(x(locs),pks,
+end

@@ -1,0 +1,10 @@
+function setTextProperty(ppName, ppValue)
+global textfontsize;
+global textfontname;
+global textfontweight;
+global textfontangle;
+switch ppName
+    case 'FontName'
+textHandles = findobj(gcf, 'type', 'text');
+set(textHandles, ppName, ppValue);
+end

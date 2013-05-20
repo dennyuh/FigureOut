@@ -1,0 +1,10 @@
+C:\Workspace\GitHub\FigureOut\WinMainApp\bin\Debug\AutoFigPro.exe.config
+C:\Workspace\GitHub\FigureOut\WinMainApp\bin\Debug\AutoFigPro.exe
+C:\Workspace\GitHub\FigureOut\WinMainApp\bin\Debug\AutoFigPro.pdb
+C:\Workspace\GitHub\FigureOut\WinMainApp\bin\Debug\FigExportor.dll
+C:\Workspace\GitHub\FigureOut\WinMainApp\bin\Debug\FigPlot.dll
+C:\Workspace\GitHub\FigureOut\WinMainApp\obj\Debug\AutoFigPro.Form1.resources
+C:\Workspace\GitHub\FigureOut\WinMainApp\obj\Debug\AutoFigPro.Properties.Resources.resources
+C:\Workspace\GitHub\FigureOut\WinMainApp\obj\Debug\AutoFigPro.csproj.GenerateResource.Cache
+C:\Workspace\GitHub\FigureOut\WinMainApp\obj\Debug\AutoFigPro.exe
+C:\Workspace\GitHub\FigureOut\WinMainApp\obj\Debug\AutoFigPro.pdb

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parameters>
+  <ControlText
+    Name="textSingleXLabel"
+    Value="XX" />
+  <ControlText
+    Name="textSingleYLabel"
+    Value="YY" />
+  <ControlText
+    Name="comboSingleXFont"
+    Value="Arial" />
+  <ControlText
+    Name="comboSingleYFont"
+    Value="Arial" />
+  <ControlCheck
+    Name="checkSingleXBold"
+    Value="false" />
+  <ControlCheck
+    Name="checkSingleYBold"
+    Value="false" />
+  <ControlCheck
+    Name="checkSingleXItalic"
+    Value="false" />
+  <ControlCheck
+    Name="checkSingleYItalic"
+    Value="false" />
+  <ControlText
+    Name="textXFontSize"
+    Value="15" />
+  <ControlText
+    Name="textYFontSize"
+    Value="15" />
+  <ControlText
+    Name="comboYValue"
+    Value="Percentage" />
+  <ControlText
+    Name="textXFontSize"
+    Value="15" />
+  <ControlText
+    Name="comboCurveTextFont"
+    Value="Arial" />
+  <ControlCheck
+    Name="checkCurveTextBold"
+    Value="false" />
+  <ControlCheck
+    Name="checkCurveTextItalic"
+    Value="false" />
+  <ControlText
+    Name="textCurveTextFontSize"
+    Value="10" />
+  <ControlText
+    Name="comboCurveTextDir"
+    Value="Horizontal" />
+  <ControlText
+    Name="textCutOff"
+    Value="10" />
+</Parameters>
